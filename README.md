@@ -1,2 +1,2 @@
 # FPGA-biochemical-spectrometer
-currently brainstorming
+currently brainstorming, done in collaboration with a biomolecular engineering student
